@@ -49,6 +49,8 @@ Power Monitor має вбудовану підтримку Telegram Bot API.
 ```
 
 Для групового чату від'ємний знак `-` є частиною Chat ID.
+## 📱 Telegram
+![Telegram](images/Telegram1.png)
 
 ### Повідомлення про відключення
 
@@ -78,6 +80,8 @@ Power Monitor має вбудовану підтримку Telegram Bot API.
 
 ## 🤖 Telegram-команди
 
+![Telegram](images/Telegram1.png)
+
 Power Monitor підтримує команди Telegram-бота:
 
 | Команда    | Призначення                        |
@@ -97,7 +101,23 @@ Power Monitor підтримує команди Telegram-бота:
 
 ---
 
+## 🌐 Web 
+## 📱 Web 
+![Web ](images/PowerMonitoring-Setup.png)
+---
+## Power Monitoring має власну сторінку
+## ![Web ](images/Web.png)
+
+## Логін для входу- admin
+## Пароль- admin
+
+![Web ](images/Web2.png)
+
+
+---
 ## 🌐 Web Setup
+## 📱 Telegram
+![Web Setup](images/PowerMonitoring-Setup.png)
 
 Power Monitoring має власну сторінку налаштування:
 
@@ -210,11 +230,6 @@ Power Monitoring використовує NVS ESP32 для постійного 
 
 Повна документація буде розділена на окремі розділи:
 
-### Встановлення
-
-[`docs/installation.md`](docs/installation.md)
-
-Встановлення компонента та прошивка ESP32.
 
 ### Telegram
 
