@@ -67,7 +67,7 @@ Chat ID — це числовий ідентифікатор чату, куди 
 
 ### 3.2. Альтернатива: через бота-помічника
 
-Напишіть боту **[@userinfobot](https://t.me/userinfobot)** або **[@getidsbot](https://t.me/getidsbot)** — він відповість вашим ID. Або додайте до групи @IDBotGet ID і він напише в чат ваш ID і ID групи.
+Напишіть боту **[@userinfobot](https://t.me/userinfobot)** або **[@getidsbot](https://t.me/getidsbot)** — він відповість вашим ID. Або додайте до групи [@username_to_id_bot](https://t.me/username_to_id_bot) і він напише в чат ваш ID і ID групи.
 
 ---
 
