@@ -256,7 +256,7 @@ Power Monitoring використовує NVS ESP32 для постійного 
 [▶️ Відео інструкція отримання Bot Token, додавання команд боту, отримання Chat ID, створення групи](https://youtu.be/Jrmhhm-YKsM)
 
 ## 🎬 Відео2
-[▶️ Відео інструкція налаштування та огляду веб інтерфейсу Power Monitor(введення ID групи чи чату](https://youtu.be/vRgLVv5bSpk)
+[▶️ Відео інструкція налаштування та огляду веб інтерфейсу Power Monitor(введення ID групи чи чату)](https://youtu.be/vRgLVv5bSpk)
 
 ---
 
