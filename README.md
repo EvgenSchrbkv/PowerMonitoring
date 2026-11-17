@@ -52,7 +52,7 @@ Power Monitor має вбудовану підтримку Telegram Bot API.
 ```
 
 Для групового чату від'ємний знак `-` є частиною Chat ID.
-## 📱 Telegram
+
 ![Telegram](images/Telegram1.png)
 
 ### Повідомлення про відключення
@@ -105,7 +105,7 @@ Power Monitor підтримує команди Telegram-бота:
 ---
 
 ## 🌐 Web 
-## 📱 Web 
+
 ![Web ](images/PowerMonitoring-Setup.png)
 ---
 ## Power Monitoring має власну сторінку
@@ -119,7 +119,7 @@ Power Monitor підтримує команди Telegram-бота:
 
 ---
 ## 🌐 Web Setup
-## 📱 Telegram
+
 ![Web Setup](images/PowerMonitoring-Setup.png)
 
 Power Monitoring має власну сторінку налаштування:
@@ -184,7 +184,7 @@ GND ────────┘
 
 Функція призначена для скидання мережевих налаштувань пристрою у випадку, коли потрібно повторно налаштувати підключення до мережі.
 
-> ⚠️ GPIO ESP32 працюють із низькою напругою. Не підключайте мережеву напругу до GPIO.
+
 
 
 
